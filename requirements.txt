@@ -1,0 +1,8 @@
+streamlit==1.30.0
+langchain-core==0.1.18
+langchain-community==0.0.21
+langchain-google-genai==0.0.6
+langchain-deepseek==0.0.2
+langgraph==0.0.24
+typing-extensions==4.9.0
+python-dotenv==1.0.0
